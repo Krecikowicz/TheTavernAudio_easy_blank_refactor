@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{97983f1b-9eaa-4607-bc1b-af462e311e9c}">
+		<property name="assetPath">
+			<value>Ambient Loops/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{81098cf5-ffd3-460b-b27d-ce9882e786f0}</destination>
+		</relationship>
+	</object>
+</objects>
