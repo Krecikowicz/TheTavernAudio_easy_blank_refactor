@@ -179,10 +179,10 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/acha.bank
   Name: acha
   StudioPath: bank:/acha
-  lastModified: 639015081627072634
+  lastModified: 639035829175774618
   FileSizes:
   - Name: Desktop
-    Value: 17689024
+    Value: 19994816
   Exists: 1
 --- !u!114 &-5929989129752474330
 MonoBehaviour:
@@ -373,6 +373,34 @@ MonoBehaviour:
   - Open
   - Close
   Exists: 1
+--- !u!114 &-3980712219423680844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambients/pkmn chill rotue
+  m_EditorClassIdentifier: 
+  Path: event:/Ambients/pkmn chill rotue
+  Guid:
+    Data1: -1898102149
+    Data2: 1161442646
+    Data3: 2041143972
+    Data4: 37102342
+  Banks:
+  - {fileID: -6654977636046800754}
+  - {fileID: 1018944814433299647}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 9.2
+  Length: 143560
 --- !u!114 &-2441637818986527737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -471,10 +499,10 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639015083545968854
+  lastModified: 639035829176389875
   FileSizes:
   - Name: Desktop
-    Value: 2102
+    Value: 2312
   Exists: 1
 --- !u!114 &-395799126047174985
 MonoBehaviour:
@@ -573,13 +601,14 @@ MonoBehaviour:
   - {fileID: -5929989129752474330}
   - {fileID: -1568905806734968428}
   - {fileID: -4619297696398291504}
+  - {fileID: -3980712219423680844}
   EditorParameters: []
   MasterBanks:
   - {fileID: 6441029837719855767}
   StringsBanks:
   - {fileID: -914964642043865664}
   cacheVersion: 131856
-  cacheTime: 639015083546292123
+  cacheTime: 639035829176683912
   SerializableEventsDict:
   - key: event:/Ambients/Ambient_tavern
     index: 0
@@ -625,6 +654,8 @@ MonoBehaviour:
     index: 20
   - key: event:/Ambients/morshu
     index: 21
+  - key: event:/Ambients/pkmn chill rotue
+    index: 22
 --- !u!114 &484188964471668076
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -697,10 +728,10 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/Ambients.bank
   Name: Ambients
   StudioPath: bank:/Ambients
-  lastModified: 639015083545878404
+  lastModified: 639035829176328129
   FileSizes:
   - Name: Desktop
-    Value: 6824448
+    Value: 9129728
   Exists: 1
 --- !u!114 &1383741039416370273
 MonoBehaviour:
@@ -854,7 +885,7 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/SFX.bank
   Name: SFX
   StudioPath: bank:/SFX
-  lastModified: 639015083546292123
+  lastModified: 639035829176683912
   FileSizes:
   - Name: Desktop
     Value: 175072
@@ -929,10 +960,10 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639015083545948851
+  lastModified: 639035829176379501
   FileSizes:
   - Name: Desktop
-    Value: 3518
+    Value: 4002
   Exists: 1
 --- !u!114 &9214616322399817599
 MonoBehaviour:
