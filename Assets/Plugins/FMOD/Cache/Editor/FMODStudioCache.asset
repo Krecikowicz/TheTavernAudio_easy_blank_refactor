@@ -179,7 +179,7 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/acha.bank
   Name: acha
   StudioPath: bank:/acha
-  lastModified: 639035829175774618
+  lastModified: 639038490762011815
   FileSizes:
   - Name: Desktop
     Value: 19994816
@@ -499,7 +499,7 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639035829176389875
+  lastModified: 639038490761508652
   FileSizes:
   - Name: Desktop
     Value: 2312
@@ -608,7 +608,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -914964642043865664}
   cacheVersion: 131856
-  cacheTime: 639035829176683912
+  cacheTime: 639038490762011815
   SerializableEventsDict:
   - key: event:/Ambients/Ambient_tavern
     index: 0
@@ -728,7 +728,7 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/Ambients.bank
   Name: Ambients
   StudioPath: bank:/Ambients
-  lastModified: 639035829176328129
+  lastModified: 639038490761487126
   FileSizes:
   - Name: Desktop
     Value: 9129728
@@ -885,7 +885,7 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/SFX.bank
   Name: SFX
   StudioPath: bank:/SFX
-  lastModified: 639035829176683912
+  lastModified: 639038490761518700
   FileSizes:
   - Name: Desktop
     Value: 175072
@@ -960,7 +960,7 @@ MonoBehaviour:
   Path: Assets/FMOD/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639035829176379501
+  lastModified: 639038490761497127
   FileSizes:
   - Name: Desktop
     Value: 4002
